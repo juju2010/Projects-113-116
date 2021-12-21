@@ -1,0 +1,12 @@
+h3{
+    font-size: 23px !important;
+}
+.btn-success:hover{
+background-color: red;
+}
+
+canvas{
+    animation-name: colorful;
+    animation-duration: 2s ;
+    animation-iteration-count: infinite;
+}
